@@ -26,6 +26,17 @@ or conda:
     conda install dsnk_distribution
 ```
 
+###### access classes and functions
+```
+from dsnk_distributions import Gaussian, Binomial
+```
+
+**or**:
+```
+from dsnk_distributions import Gaussian
+from dsnk_distributions import Binomial
+```
+
 ###### Source code
 
 You can check the latest sources with the command:
