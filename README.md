@@ -10,9 +10,9 @@ dsnk distribution is a Python module for data science and machine learning that 
 
 * **Generic distribution** class for calculating and visualizing a probability distribution. It performs its functions with help of Binomial distribution and Gaussian distribution.
 
-Explanation of files in the package
 
-## User nstallation
+
+## User installation
 
 The easiest way to install dsnk_distribution is using pip
 
